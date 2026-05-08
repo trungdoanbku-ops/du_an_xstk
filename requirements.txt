@@ -7,3 +7,4 @@ scipy
 geostatspy
 tqdm
 scikit-learn
+numba
