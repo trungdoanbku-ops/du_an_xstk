@@ -8,3 +8,9 @@ geostatspy
 tqdm
 scikit-learn
 numba
+statsmodels
+cycler
+kiwisolver
+pyparsing
+python-dateutil
+six
